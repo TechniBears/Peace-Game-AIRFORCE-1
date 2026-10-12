@@ -1,4 +1,6 @@
 # Peace Game: AIRFORCE-1
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
 ### Project Sentinel — a consent-based community security coordination concept
 
 **A Technibears concept proposal · October 2026**
@@ -70,6 +72,16 @@ Evaluate reliability of simulated alerts, user comprehension of consent, inappro
 ## Proposal
 
 Read the complete concept proposal: **[Project Sentinel — Proposal](docs/PROJECT_SENTINEL_PROPOSAL.md)**.
+
+## Copyleft license
+
+Copyright © 2026 Technibears LLC.
+
+Unless otherwise noted, this repository, including its proposals and future software, is released under the **GNU Affero General Public License, version 3 or later (AGPL-3.0-or-later)**. See [LICENSE](LICENSE) for the complete terms.
+
+You may use, study, modify, and redistribute the licensed material under those terms. Redistributed adaptations must preserve the applicable copyleft requirements; modified network software must also offer its corresponding source to users interacting with it over a network. Copyleft does **not** prohibit commercial use or guarantee payment to the original authors.
+
+Licensing does not confer military, police, security, or other governmental authority, and third-party trademarks and assets are not automatically relicensed.
 
 ## Intended audience and attribution
 
